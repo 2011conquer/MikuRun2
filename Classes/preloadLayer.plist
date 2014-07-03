@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Musics</key>
+	<array>
+		<string>mikumusic.caf</string>
+	</array>
+	<key>SpriteSheets</key>
+	<array>
+		<string>mikustart.plist</string>
+		<string>run.plist</string>
+		<string>gamebk.plist</string>
+		<string>coin.plist</string>
+	</array>
+	<key>Sounds</key>
+	<array>
+		<string>eatcoin.caf</string>
+	</array>
+</dict>
+</plist>
